@@ -5,7 +5,6 @@
 
 class Episode;
 class Podcast;
-class Search;
 
 //A class for creating Podcast, Episode, and Search objects:
 class PodcastFactory {	
