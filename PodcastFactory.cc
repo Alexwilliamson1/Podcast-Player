@@ -71,8 +71,4 @@ Podcast* PodcastFactory::createPodcast(const std::string& title, const std::stri
     return new Podcast(title, host, category);
 }
 
-//Creating a \"Search\" object from a string representing user input:
-Search* PodcastFactory::search(const std::string& input){
-    return new Search(input);
-}
 
