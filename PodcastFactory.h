@@ -15,7 +15,6 @@ class PodcastFactory {
 		Podcast* createPodcast(const std::string& title, 
 				       const std::string& host,
 				       const std::string& category);
-		Search* search(const std::string& input);
 };
 
 #endif
