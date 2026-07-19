@@ -7,7 +7,6 @@
 #include "PodcastFactory.h"
 #include "Episode.h"
 #include "Podcast.h"
-#include "Search.h"
 #include "PodcastPlayer.h"
 #include "Podify.h"
 #include "View.h"
