@@ -12,7 +12,7 @@ To run this program, one requires a C++17 compiler, GNU Make, and the files in t
 
 ## Instructions for building and running the program:
 
-To build the program, open a command-line interface, navigate to the directory containing the program’s files, and run the command `make`.  Then, run ‘./PodcastPlayer` to run the program.
+To build the program, open a command-line interface, navigate to the directory containing the program’s files, and run the command `make`.  Then, run `./PodcastPlayer` to run the program.
 
 ## Notes:
 
