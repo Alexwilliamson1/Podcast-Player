@@ -1,0 +1,138 @@
+10 years of AlphaGo: The turning point for AI
+Science
+Hannah Fry: Just explain to us what happened with the now famous move 37.
+
+Thore Graepel: Yeah, so this was a remarkable scene.  And I was sitting in the international English speaking commentating room and Michael Redmond, our American commentator, he had this big demo board on the wall, and he would put all the stones up there on the board to show people what was being played and comment on different variations.  And so he took this stone corresponding to move 37 on the board, and then he stepped back and said, “Now this must be wrong.”  And he took it back.  And then he looked at the screen again and said, “No, no, that is actually what AlphaGo played.”  And he put it back.  He was puzzled.  You could see it, that that was such a counterintuitive move for a human player.  
+
+It was a shoulder move on the fifth line.  And this is typically something that human Go players avoid.  So often in Go, there is some kind of pushing going on along the edges.  And one of the players builds territory along the wall of the board.  And the other side builds influence towards the center of the board.  And if that happens on the third or fourth line, this is considered to be roughly equitable.  You know, both sides get something out of it.  But, what AlphaGo was effectively suggesting is that it’s still profitable if you do it on the fifth line and you give that much more territory to the other party.  And that’s what was so surprising to people, that there would be situations in which that would be correct.  And so, not only was it a very special move, but in a way it represented a new way of weighing these two factors of immediate territory versus influence towards the center of the board against each other.  
+
+Hannah Fry: Something that went beyond what a human Go player would normally do, Pushmeet.
+
+Pushmeet Kohli: Yeah, absolutely.  I mean, there are moments like this where you see the true potential of an AI system expanding human knowledge.
+Episode1.txt
+The future of intelligence
+Science
+Demis Hassibis: So science, again, I think, building models of scientifically complex domains, whether that’s materials on the atomic level, in biology, but also some physical things as well, like weather.  One way to understand those systems is to learn simulations of those systems from the raw data.  So you have a bunch of raw data, let’s say it's about the weather.  And obviously we have some amazing weather projects going on.  And then you have a model that kind of learns those dynamics and can recreate those dynamics more efficiently than doing it by brute force.  So I think there’s huge potential for simulations and world models, maybe specialized ones, for aspects of science and mathematics.  
+
+Hannah Fry: But then also, I mean, you can drop an agent into that simulated world, too, right?
+
+Demis Hassibis: yes, yes.
+
+Hannah Fry: Your Genie 3 team, they had this really lovely quote, which was, “almost no prerequisite to any major invention was made with that invention in mind.”  And they were talking about dropping agents into these simulated environments and allowing them to explore with curiosity being their main motivator.
+
+Demis Hassibis: Right.  And so that’s another really exciting use of these world models is you can – we have another project called SIMA, we just released SIMA2, you know, simulated agents – where you have an avatar or an agent and you put it down into a virtual world.  It can be a normal, it can be a kind of actual commercial game or something like that, a very complex one.
+Episode2.txt
+The Arrival of AGI
+Science
+Shane Legg: In terms of grounding in reality, at the moment, we’re building these agents by collecting lots of data from the world, training them on these big models, and then they become relatively static objects that we then interact with, and they don’t really learn much new or anything like that.  That’s shifting and we’re bringing in more learning algorithms and that kind of thing.  We’re also making the systems more agentic.  So they’re not just a system that you talk to and then it processes and gives a response.  But there may be a system that can go and do something.  So you can say to it, okay, I want you write some software that does such and such.  Oh, I want you to go and, I don’t know, come up with a plan for my trip to Mexico.  And I want to see this and this, but I don’t like this or whatever.  And then those agents will also start to become more embodied in robotics and things like that.  Some of them will be software agents.  They’ll do those sorts of things.  But with time I think they’ll turn up in robots and all that kind of thing.  And as you keep going along this track, the AIs become more connected to reality through all sorts of different things and they actually have to learn through interaction and experience rather than just sort of a large data set that sort of goes in at the beginning.  That’s where the connection to reality tightens up a lot.  
+
+That said, you know, a lot of this data that is poured into them at the beginning, that came from somewhere.  And a lot of it came from people.  So there is a grounding to reality that comes via that process as well.
+Episode3.txt
+#1368: Edward Snowden
+Comedy
+Edward Snowden: In the office of information sharing and, actually, in basically every part of my career before that, I had access to everything.  I had what was called, a special caveat on my accesses, called “privac,” which means privileged access.  What this means is you’re kind of super user.  You know, most people have all of these controls on the kind of information they can access, but I’m in charge of the system, right?  People who need information, they have to get it from somewhere.  They don’t know.  Even the director of the CIA, right?  He says, “I need to know everything about this.”  Well, he doesn’t know where to get it.  He’s just a manager.  Somebody has to be able to actually cross these thresholds and get those things.  That guy was me.  
+
+And so, dirty word searches were these kind of automated queries that I would set up to go across the whole network and look at all the different levels of classification and compartmentation and exceptionally controlled information.  You can think of it as above top secret in these special compartments, right?  Where you’re not even supposed to know what these compartments are for.  You only know the code word, unless you work in them, unless you have access to them.  Unless you read into them.  
+
+Well, one day I got a hit on the dirty word search for a program that I’d never heard of called Stellar Wind.  It came back because the little caveat for it, they’re called handling caveats, which is like, you know, you can think of “Burn After Reading” or “For Your Eyes Only,” but this one’s called STLW, which means Stellar Wind.  Unless you know what Stellar Wind is, you don’t know how to handle it.  All I knew is it wasn’t supposed to be on my system.  And I went, “this is a little bit unusual.”  And it turned out, this document was placed on the system because one of the employees who had worked on this program years before had come to Hawaii.  And this person was a lawyer, I believe, and they had worked in the Inspector General’s office and they had compiled a report – part of the Inspector General’s report, which is when the government is investigating itself – about the operations and activities of this program.  Well, this was the domestic mass surveillance program that I talked about in the very beginning of our conversation that started under the Bush White House.
+Episode4.txt
+#1536: Edward Snowden
+Science
+Edward Snowden: There’s this idea called end-to-end encryption.  What it means is that when you send a message, when Billy sends a message to Bobby, Billy and Bobby both have the keys to unlock that message.  And it could be sent through Facebook, it could be sent through Google, it could be posted on a bulletin board in the town square.  The people who run the bulletin board, the people who own the bulletin board – Google, Facebook – they don’t have that key.  Only the phones at the end, the laptops at the end, the people who own those, they’re the only people who have the key.  So if somebody comes to Facebook and says we want to see that information, Facebook hands over the encrypted message, right?  And Facebook goes, well, here you go, here’s our copy, but we can’t read it, you can’t either, now you’ve got to actually do some work on the government side and go get that key yourself.  And then you can read it, but we can’t read it.  Congress is trying to stop the proliferation of that basic end-to-end encryption technology.
+Episode5.txt
+#474: David Heinemeier Hansson: Future of Programming, AI, Ruby on Rails, Productivity & Parenting
+Technology
+David Heinemeier Hansson: PHP to me didn’t just give me a start in terms of making my own web applications.  It actually gave me a bar.  In many ways I think the pinnacle of web developer ergonomics is late ’90s PHP.  You write this script, you FTP it to a server and instantly it’s deployed.  Instantly it’s available.  You change anything in that file and you reload, boom, it’s right there.  There’s no web servers, there’s no setup.  There’s just an Apache that runs mod PHP, and it was essentially the easiest way to get a dynamic web page up and going, and this is one of the things I’ve been chasing that high for basically the rest of my career.  It was so easy to make things for the internet in the mid to late ’90s.
+
+How did we lose the sensibilities that allowed us to not just work this way but get new people into the industry to give them those success experiences that I had adding a freaking blink tag to an HTML page, FTPing a PHP page to an Apache web server without knowing really anything about anything?  Without knowing anything about frameworks, without knowing anything about setup.  All of that stuff has really taken us to a place where it sometimes feels like we’re barely better off.  Web pages aren’t that different from what they were in the late ’90s, early 2000s.  They’re still just forms.  They still just write to databases.
+Episode6.txt
+#494: Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution
+Technology
+Jensen Huang: Yeah, it turned out to have been a good decision.  I think the… so, here’s the way it went.  So, we invented this thing called CUDA, and it expanded the aperture of applications that we can accelerate with our accelerator.  The question is, how do we attract developers to CUDA?  Because a computing platform is all about developers.  And developers don’t come to a computing platform just because, you know, it could perform something interesting.  They come to a computing platform because the install base is large.  Because a developer, like anybody else, wants to develop software that reaches a lot of people.  So, the install base is, in fact, the single most important part of an architecture.  The architecture could attract enormous amounts of criticism.
+
+For example, no architecture has ever attracted more criticism than the x86… you know, as a less than elegant architecture, but yet it is the defining architecture of today.  It gives you an example that in fact so many RISC architectures, which were beautifully architected, incredibly well-designed by some of the brightest computer scientists in the world, largely failed.  And so I’ve given you two examples where one is, you know, one is elegant, the other one’s barely aesthetic, and yet x86 survived.
+Episode7.txt
+#479: Dave Plummer: Programming, Autism, and Old-School Microsoft Stories
+Technology
+Lex Fridman: Yeah, so I mean, you mentioned MIPS and RISC.  How deeply did you have to understand the lowest level, the lowest level of the software and even the hardware with the stuff you were building?  What are the layers of the abstractions you had to understand to be successful with all the stuff you're doing with NT and before that with MS-DOS?
+
+Dave Plummer: Well, about half your day is gonna be spent debugging.  And most of that time is gonna be spent in call stacks that are in pure assembly language because there's no source level debugging.  So it's not like we're in Visual Studio and you hit a break point and it pops up and there's the source code.  You can go look at the source code, but you're looking at the raw assembly dump from the machine at all times.
+
+Lex Fridman: Even if you're programming in C, the debugging is in assembly.
+
+Dave Plummer: Yeah, 100%.
+
+Lex Fridman: Oh, man.
+
+Dave Plummer: So it's a little cumbersome.  Better yet, we're doing four instruction sets because we're doing Intel, MIPS, Alpha and PowerPC.  So depending on which machine it crashes on, you've got an entirely different instruction set that registers.  So you get reasonably adapted debugging all four, but I had more experience in MIPS, so MIPS stuff would come my way.
+
+Lex Fridman: That's a real endurance event.  I mean, can you speak to that, the torture that is debugging, especially that kind of debugging without the tooling associated with it?  Programming isn't all about creating beautiful things, right?  It's also about fixing things.
+
+Dave Plummer: Yeah. I would say that 20 percent of my professional life has been creating and 80 percent has been debugging and fixing.
+Episode8.txt
+#471: Sundar Pichai: CEO of Google and Alphabet
+Technology
+Lex Fridman: You were one of the pioneers of Chrome, pushing for it when it was an insane idea, probably one of the ideas that was criticized and doubted, and so on.  Can you tell me the story of what it took to push for Chrome?  What was your vision?
+
+Sundar Pichai: Look, it was such a dynamic time around 2004, 2005 with AJAX (asynchronous JavaScript and XML), the web suddenly becoming dynamic.  In a matter of few months, Flickr, Gmail, Google Maps, all kind of came into existence, right?  Like, the fact that you have an interactive dynamic web.  The web was evolving from simple text pages, simple HTML, to rich dynamic applications.  But at the same time, you could see the browser was never meant for that world, right?  Like, JavaScript execution was super slow.
+
+The browser was far away from being an operating system for that rich modern web which was coming into place.  So that’s the opportunity we saw.  It’s an amazing early team.  I still remember the day we got a shell on WebKit running and how fast it was.  We had the clear vision for building a browser.  We wanted to bring Core OS principles into the browser, right?
+
+So we built a secure browser sandbox.  Each tab was its own.  These things are common now, but at the time, it was pretty unique.  We found an amazing team in Aarhus, Denmark with a leader who built the JavaScript VM, which at the time, was 25 times faster than any other JavaScript VM out there.  By the way, you are right.  We open-sourced it all and put it in Chromium too, but we really thought the web could work much better, much faster, and you could be much safer browsing the web.  And the name Chrome came because we literally felt people were… the Chrome of the browser was getting clunkier.
+
+We wanted to minimize it.  So that was the origins of the project.  I'm obviously a highly-biased person here talking about Chrome, but it’s the most fun I’ve had building a product from the ground up, and it was an extraordinary team.  My co-founders on the project were terrific, so definite fond memories.
+Episode9.txt
+Meet NEO, your robot butler in training
+Technology
+Bernt Bornich: We need a large amount of diversity for us to be able to develop into intelligent beings.  So why should it be different for robots?  And it really begs the question then, what is the equivalent of the internet?  How do we find this internet level of diversity of information for our robots.  We’ve come to the conclusion that this is probably the home.  
+
+The home is this beautiful chaotic thing.  It’s kind of, like, the messiness that is being human.  And I want to take a small example here.  So, think about a cup.  Now, of course, there are many cups in the world and you want to be able to figure out how all of them work.  But even if you look at one specific cup, it can be so many things.  Is it dirty?  Is it clean?  Is it kind of in the middle?  Is it on the table, in a cabinet, on the floor?  It can even have a social context.  Someone’s using the cup.  Someone’s waiting for the cup.  Like, why is the cup even there?  And this is just a cup.  Now think about expanding this out into everything and every object and everything going on in your home.  That’s the kind of diversity that we’re talking about to get to proper machine intelligence.
+
+So, like any good scientist, right, we had this hypothesis and now we have to test it.  So, in 2023, we brought our robots home.  I had NEO in my house for quite a while and it was of course doing the standard things like emptying the dishwasher, but also bringing me a cup of tea when I was enjoying playing board games with my friends or serving cupcakes at my daughter’s birthday party.  Pretty quickly, it became quite clear that this hypothesis actually was the Ground Truth.  The home is this incredible, diverse source of data that lets us continue to progress intelligence.  
+[Shows video]
+What you see here now is just a subset of tasks that NEO can do.  This is a mix of things the robot is good at and some remote operations where someone is guiding the robot basically by doing expert demonstrations on how to do these tasks.  And as we have an increasing number of these robots throughout homes, living among us and learning, more and more of this becomes autonomous.
+Episode10.txt
+What does the Cloud drink?
+Technology
+Ayse Coskun: We can align the rise of AI with the rise of clean energy if we are bold enough to re-think their role.  All this transformation to power flexibility didn’t just come out of thin air.  It builds on decades of research on energy-efficient computing, scheduling, optimization, and many others.  I have lived this journey myself.  Early in my career, I asked a question that many found unrealistic.  Could computer systems adapt their behaviour depending on power grid needs, but without breaking their performance promise to their users?
+
+At the time this sounded radical because why would we ever design a system that would slow itself down on purpose?  But then came the breakthroughs.  First, we discovered that not all computing tasks are urgent.  Some can wait for minutes or hours and some can be slowed down without anyone really noticing it.  For example, a researcher analyzing hundreds of medical images with AI may be okay with waiting just a little longer.  Or if you are fine-tuning your AI over the course of the next few days, you may be okay with slowing it down for just a few hours.  This inherent flexibility in computing gives us the flexibility we need to manage power.  
+
+Second, re-frame the problem.  Instead of asking, how do we compute as fast as possible, we ask how do we make computer systems meet the constraints of the power grid while at the same time delivering on user performance agreements.  This shift led to new strategies: capping power, shifting workloads, and provisioning the data center as a flexible reserve to the grid.  
+
+A key aspect here is that we do keep the performance promise to users, so it's not arbitrary.  User experience remains as a key target.  And better yet, it becomes more predictable.  So, we built prototypes on real data center servers and they worked.  Systems that could follow a power target while still delivering results. 
+Episode11.txt
+The multidimensional magic of modern maps
+Technology
+Peter Wilczynski: The problems of the 21st century, they’re fundamentally physical.  They’re problems of moving atoms.  When you think about climate change, energy abundance, housing affordability, global security; these are problems that require regaining a builder’s spirit and starting to act upon the physical world once again.  
+
+What we’ve done is we’ve taken dozens and dozens of different data sets and we’ve fused them together into a dynamic and living representation of the earth.  By pulling these into an ontology so that computers and people can interact with them together, we can programmatically start identifying patterns so that we can delegate the monitoring of those patterns to a computer.  
+
+What we see here is Vancouver, a combination of tree height data, Landsat vegetation data and information from the affordable housing district.  What we can start to identify is patterns, things that we can see about the city that affect the way that people live in it.
+
+You can tell that the areas that have a lot of trees protect us against heat.  So what we've identified is really two patterns here.  One, that trees are great for economic development.  People really desire living in places with trees.  And two, that trees are critical for building a lovely, wonderful city.
+
+But it's not enough to have a static map looking at the past.  Our goal is to have a really dynamic map that's updating in real time.  And in the background, dozens of satellites are orbiting the earth taking images of Vancouver, so that we can start to move from mapping to monitoring to building an instrument panel in a dashboard where we can really understand what's happening in our city in real time.
+
+This lets us move away from thinking about individual projects towards thinking about the city as a cohesive whole, right?  An integrated system where all of the projects play together to achieve multi-dimensional goals.
+Episode12.txt
+How to build in space for life on Earth
+Technology
+Ariel Ekblaw: We need a new solution for how to build in orbit and scale up space infrastructure for the public good.  Nine years ago, I started working on this problem.  Could we learn from nature, from plants and proteins that self-assemble at a small scale and adapt us to the grandest scales in space?
+
+We know that when you're in free fall around a planet, you have the sensation of zero gravity.  In that environment, forces like magnetism can bring together vast objects with ease.  So first at MIT and now at Aurelia Institute, my team and I have invented a system to do just this, to grow space structures in orbit using autonomous robotic self-assembly.
+
+The idea behind the method is to allow us to build reconfigurable space stations that are bigger than our biggest rockets.  Based on my MIT PhD, we use electro-permanent magnets; very special, strong magnets that bring the modular tiles together to dock, to rendezvous.  Essentially, think about space Legos with magnets that click, click, click, click into place.
+
+Tesserae, what we call this space habitat, is a self-assembling structure.  So we ship the modular parts to their destination, wherever they're meant to be, and once the tiles or the modules arrive, they build themselves.  So we don't require astronauts or even robotic arms to go out and do slow or risky spacewalks and space maneuvers.
+
+And from there, after the tiles have come together to form one buckyball, multiple buckyballs can dock to form a larger space station.  And the best part is that we have tested this in space twice.  Michael Lopez-Alegria, on orbit inside the International Space Station, helped us test the code and the timing and the pacing for dynamic robotic self-assembly in orbit.
+
+From here, we build and fly and test.  We iteratively prototype.  We simulate the physics to be able to fine-tune the construction method.
+
+And last year, we built a human-scale mock-up of our space habitat and we brought it on a roadshow across the country.  What we hope to communicate to the public with these interiors is a life worth living in space, or at least worth commuting to.  Once we're in space, we can use the really unique environment of the vacuum, of microgravity, to manufacture things that can't be made on Earth.
+Episode13.txt
+
+
+
+
