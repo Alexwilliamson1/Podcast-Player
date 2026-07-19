@@ -5,7 +5,6 @@
 #include <string>
 
 class Podcast;
-class Search;
 
 //Public and private members of the Episode class:
 class Episode {
