@@ -114,7 +114,7 @@ void View::promptEpisode(int& choice, int& size){
 //To output the names of episodes in the playlist:
 void View::printPlaylist(Array<Episode*>& episodes) {
 	if (episodes.getSize() == 0) {
-		cout << "There are no episodes in the playlist.\n\n";
+		cout << "Please add episodes to the playlist.\n\n";
 		return;
 	}
 	cout << "The episodes in the playlist are:\n";
@@ -126,7 +126,10 @@ void View::printPlaylist(Array<Episode*>& episodes) {
 
 //To output the quotes or ASCII art for each episode in the playlist:
 void View::playEpisodes(Array<Episode*>& episodes){
-	std::string podcastTitle = episodes[0] -> getPodcastTitle();
+	if (episodes.getSize() == 0) {
+		cout << "Please add episodes to the playlist.\n\n";
+		return;
+	}
 	int playNext = -1;
 	for (int i = 0; i < episodes.getSize(); ++i) {
 		cout << i + 1 << ".  ";
